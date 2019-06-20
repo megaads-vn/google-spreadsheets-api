@@ -13,6 +13,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "google/apiclient": "1.*"
+        "google/apiclient": "^2.0"
     }
 }
